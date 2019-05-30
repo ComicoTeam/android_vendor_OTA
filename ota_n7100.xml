@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <n7100>
-            <Filename>Havoc-OS-v2.5-20190525-n7100</Filename>
+            <Filename>Havoc-OS-v2.5-20190525-n7100-Unofficial</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"

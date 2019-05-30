@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <n7100>
+            <Filename>Havoc-OS-v2.5-20190525-n7100</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download HavocOS latest build">https://www.androidfilehost.com/?fid=6006931924117882870</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download HavocOS changelogs">https://notfound.com</ChangelogUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit HavocOS n7100 thread">https://forum.xda-developers.com/galaxy-note-2/development/rom-havoc-os-beta-release-n7100-comico-t3934219/</XDAUrl>
+	</n7100>
+    </Stable>
+</SlimOTA>
